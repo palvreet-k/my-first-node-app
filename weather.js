@@ -1,0 +1,1 @@
+// This is Weather.js file with all the weather related functionalities
